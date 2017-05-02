@@ -1,0 +1,10 @@
+filipe02
+filipe1.txt
+filipe2.txt
+filipe3.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+trab1-2017.txt
